@@ -1,0 +1,10 @@
+14:34:33 **** Incremental Build of configuration Debug for project HelloEclips ****
+make all 
+'Building target: HelloEclips'
+'Invoking: Cross G++ Linker'
+g++  -o "HelloEclips" ./Hello.o   
+'Finished building target: HelloEclips'
+' '
+
+14:34:33 Build Finished. 0 errors, 0 warnings. (took 517ms)
+

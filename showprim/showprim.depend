@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646274626 source:e:\c++\c++_tutorial\showprim\main.cpp
+	<iostream>
+	<conio.h>
+

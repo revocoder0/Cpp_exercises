@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1646138410 source:e:\c++\c++_tutorial\clock\main.cpp
+	<iostream>
+	<windows.h>
+
+1647094387 source:e:\than zaw aou\toturial_cp-plus\clock\main.cpp
+	<iomanip>
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
